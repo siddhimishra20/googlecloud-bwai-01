@@ -1,4 +1,4 @@
-# Workshop Guide
+# Workshop Guide: Deploy Infrastructure to Google Cloud using Gemini CLI
 
 Welcome to the workshop! This guide will help you set up everything step by step.
 
